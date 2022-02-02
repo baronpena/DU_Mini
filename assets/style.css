@@ -1,1 +1,13 @@
-body {background-color: blue;}
+* {scroll-behavior: smooth;}
+li {
+    display: inline;
+   padding:  0 8% 0 8%;
+}
+
+a {
+    cursor: grabbing
+}
+
+.contact-block  {
+    
+}
